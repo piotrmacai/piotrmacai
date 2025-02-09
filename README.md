@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Piotr 👋
 
-<!--
-**piotrmacai/piotrmacai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI & Web Developer, AI Specialist, and the founder of [Macai Studio](https://macai.studio).  
+I work on AI assistants, web development, and automation tools for businesses. 🚀  
 
-Here are some ideas to get you started:
+## About Me
+- 🔥 Founder of [Macai Studio](https://macai.studio) & [Ainsider Tools](https://ainsider.tools).
+- 🤖 Specializing in AI assistants, chatbots, and automation.
+- 📚 Author of **LLMs Prompt Frameworks** & AI e-books.
+- 💼 Building AI-powered business tools & creative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📩 Contact Me
+- 🌐 Website: [macai.studio](https://macai.studio)
+- 🛠 AI Tools Library: [AI Insider Tools](https://ainsider.tools)
+- 🤖 My Web & AI Agency: [insdr.cloud](https://insdr.cloud)
+- ✉️ Email: piotr@macai.studio
+- 🔗 Twitter/X: [X](https://x.com/piotrmacai)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/piotrmacai/)
+
